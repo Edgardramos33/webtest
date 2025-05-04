@@ -1,0 +1,34 @@
+/* src/Homepage.css */
+.homepage {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .hero {
+    background: #282c34;
+    color: white;
+    padding: 4rem 2rem;
+  }
+  
+  .hero a {
+    display: inline-block;
+    margin-top: 1rem;
+    color: #61dafb;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .features {
+    background: #fff;
+    padding: 2rem;
+    margin-top: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  footer {
+    margin-top: 4rem;
+    padding: 1rem;
+    background: #eee;
+  }
+  
